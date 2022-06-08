@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="hey, my name is Scott." />
         <p className="description">
-        I’m a PhD candidate in the department of psychology at the University of Alberta, supervised by Craig Chapman and Anthony Singhal. Recently, I’ve been working with BioWare on some projects involving eyetracking.
+        I`m a PhD candidate in the department of psychology at the University of Alberta, supervised by Craig Chapman and Anthony Singhal. Recently, I`ve been working with BioWare on some projects involving eyetracking.
 
         I am interested in multimodal data collection, particularly eyetracking and motion capture. I also dabble in reinforcement learning and (a very little bit of) EEG.
 
